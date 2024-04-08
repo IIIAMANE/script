@@ -9,7 +9,7 @@ fi
 
 # Скачиваем ваш Python-скрипт
 echo "Скачиваем ваш Python-скрипт..."
-curl -O <https://raw.githubusercontent.com/IIIAMANE/script/main/uwu.py>
+curl -O https://raw.githubusercontent.com/IIIAMANE/script/main/uwu.py
 
 # Запускаем Python-скрипт
 echo "Запускаем ваш Python-скрипт..."
